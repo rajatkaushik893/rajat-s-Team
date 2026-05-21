@@ -1,0 +1,6 @@
+{
+  "name": "Book Brain AI",
+  "description": "An interactive, AI-powered Document Analyzer and College Project Hub. Features document indexing, semantic book Q&A, and downloadable Streamlit code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
